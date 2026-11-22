@@ -1,5 +1,10 @@
 # Shreya Nigam — Portfolio
 
+🌐 **[Visit My Live Portfolio](https://shreyan2805.github.io/)**
+A personal portfolio showcasing my skills, projects, experience and technical interests.
+
+---
+
 A responsive, single-page portfolio website built with HTML, CSS and JavaScript.
 
 ## Before publishing
